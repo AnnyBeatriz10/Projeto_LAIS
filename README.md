@@ -38,8 +38,9 @@ python migrate.py makemirations controller
 
 ```
 python migrate.py migrate 'numeração do arquivo'
+```
 
-**inicie o servidor da aplicação**
+**iniciar o servidor da aplicação**
 
 ```
 python manage.py runserver
